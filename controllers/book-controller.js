@@ -133,5 +133,5 @@ module.exports = {
   getSingleBookById,
   addNewBook,
   updateBook,
-  deleteBook,
+  deleteBoo,
 };
